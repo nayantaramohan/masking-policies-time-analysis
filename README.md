@@ -17,7 +17,7 @@ During this Course Project you are going to begin taking a look at some of the s
 ## Snapshot of analysis output
 
 #### Rate of New Covid Cases with the Mask Mandate Policies in San Mateo, CA
-![Rate of New Covid Cases with the Mask Mandate Policies in San Mateo, CA](part1_output.png) 
+![Rate of New Covid Cases with the Mask Mandate Policies in San Mateo, CA](part1_output_viz.png) 
 
 ## Best practices for documentation
 - PEP 8 – Style Guide for Python Code ([Reference link](https://peps.python.org/pep-0008/))
